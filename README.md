@@ -1,4 +1,38 @@
+# 🏏 T20WC26 Database Project
+
 # T20WC26_Database_Project.sql
+
+
+A SQL database project designed to store and analyze match and player statistics of the T20 World Cup.
+
+## 🚀 Features
+
+* Stores teams, players, matches, and stats
+* Tracks batting, bowling, and fielding performance
+* Supports analytical SQL queries
+* Clean relational database design
+
+## 🛠 Technologies Used
+
+* SQL
+* Database Design
+* Data Analytics Concepts
+
+## 📊 Sample Queries
+
+* Top run scorer
+* Top wicket taker
+* Highest strike rate
+
+## 📁 Project Structure
+
+* database.sql — full SQL script
+* README.md — project documentation
+
+## 🎯 Purpose
+
+This project demonstrates database design and SQL skills for real-world sports analytics.
+
 SQL database project for T20 World Cup
 -- =====================================================
 -- Project: T20WC26 Database
